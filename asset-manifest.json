@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.2ecfa475.chunk.css",
-    "main.js": "/static/js/main.935280ed.chunk.js",
-    "main.js.map": "/static/js/main.935280ed.chunk.js.map",
+    "main.js": "/static/js/main.fd71eaf4.chunk.js",
+    "main.js.map": "/static/js/main.fd71eaf4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b3c7e694.js",
     "runtime-main.js.map": "/static/js/runtime-main.b3c7e694.js.map",
-    "static/js/2.ffc7caff.chunk.js": "/static/js/2.ffc7caff.chunk.js",
-    "static/js/2.ffc7caff.chunk.js.map": "/static/js/2.ffc7caff.chunk.js.map",
+    "static/js/2.8292d4b1.chunk.js": "/static/js/2.8292d4b1.chunk.js",
+    "static/js/2.8292d4b1.chunk.js.map": "/static/js/2.8292d4b1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1b1ca32b44f859db6be1b6908eb6321d.js": "/precache-manifest.1b1ca32b44f859db6be1b6908eb6321d.js",
+    "precache-manifest.347c60f0b55c570cfa999aa031089ec0.js": "/precache-manifest.347c60f0b55c570cfa999aa031089ec0.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2ecfa475.chunk.css.map": "/static/css/main.2ecfa475.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -38,7 +38,9 @@
     "static/media/jsFramework.svg": "/static/media/jsFramework.b05ae5b5.svg",
     "static/media/legato_logo.png": "/static/media/legato_logo.4ba886ba.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/mk-logo.png": "/static/media/mk-logo.6965b554.png",
     "static/media/muffito_logo.png": "/static/media/muffito_logo.db6c1c0d.png",
+    "static/media/nitjsr_logo.png": "/static/media/nitjsr_logo.6be56755.png",
     "static/media/nptel_logo.png": "/static/media/nptel_logo.cd7077f7.png",
     "static/media/portfolio.gif": "/static/media/portfolio.6e7dc5ad.gif",
     "static/media/programmer.svg": "/static/media/programmer.c1a95f73.svg",
@@ -47,12 +49,13 @@
     "static/media/stanford_logo.png": "/static/media/stanford_logo.da0e7c80.png",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.de3da806.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.7f0feeed.svg",
+    "static/media/udemy_logo.png": "/static/media/udemy_logo.9f38217a.png",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.67a6a11c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b3c7e694.js",
-    "static/js/2.ffc7caff.chunk.js",
+    "static/js/2.8292d4b1.chunk.js",
     "static/css/main.2ecfa475.chunk.css",
-    "static/js/main.935280ed.chunk.js"
+    "static/js/main.fd71eaf4.chunk.js"
   ]
 }

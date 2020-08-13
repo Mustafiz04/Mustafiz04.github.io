@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ed2fc55a5dfc2264c5c3bd94ed7a61a0",
+    "revision": "7008f870e08da19c8daf067210edcdc2",
     "url": "/index.html"
   },
   {
-    "revision": "f5dfb02e033d4b908453",
+    "revision": "bee6b52a01840300d450",
     "url": "/static/css/main.2ecfa475.chunk.css"
   },
   {
-    "revision": "9fee59bba43ca57bd60d",
-    "url": "/static/js/2.ffc7caff.chunk.js"
+    "revision": "89009d4384a7f2e0f296",
+    "url": "/static/js/2.8292d4b1.chunk.js"
   },
   {
-    "revision": "f5dfb02e033d4b908453",
-    "url": "/static/js/main.935280ed.chunk.js"
+    "revision": "bee6b52a01840300d450",
+    "url": "/static/js/main.fd71eaf4.chunk.js"
   },
   {
     "revision": "ae49612b71e53749977b",
@@ -212,8 +212,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/manOnTable.52be3144.svg"
   },
   {
+    "revision": "6965b55428e8c6aaa284d290a97845d8",
+    "url": "/static/media/mk-logo.6965b554.png"
+  },
+  {
     "revision": "db6c1c0dddd4c868e00a3cffa1078e49",
     "url": "/static/media/muffito_logo.db6c1c0d.png"
+  },
+  {
+    "revision": "6be56755c951eecdace1864458a203d1",
+    "url": "/static/media/nitjsr_logo.6be56755.png"
   },
   {
     "revision": "cd7077f7a08bffdb11e13093424e13fd",
@@ -246,6 +254,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7f0feeedda08cf7d68593454bc2e82b5",
     "url": "/static/media/talksCardBackAlt.7f0feeed.svg"
+  },
+  {
+    "revision": "9f38217ab187dddce5462149e5dcb991",
+    "url": "/static/media/udemy_logo.9f38217a.png"
   },
   {
     "revision": "67a6a11c47edafb87cf24da66afe3dca",
