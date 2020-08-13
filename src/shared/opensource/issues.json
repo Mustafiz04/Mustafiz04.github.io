@@ -1,1 +1,171 @@
-{"data":[{"id":"MDU6SXNzdWU2MDU0Nzg0NDk=","closed":false,"title":"Setting Up Workflow for the project","createdAt":"2020-04-23T12:06:14Z","url":"https://github.com/ashutosh1919/masterPortfolio/issues/2","number":2,"assignees":{"nodes":[{"avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","name":"Ashutosh Hathidara","url":"https://github.com/ashutosh1919"}]},"repository":{"name":"masterPortfolio","url":"https://github.com/ashutosh1919/masterPortfolio","owner":{"login":"ashutosh1919","avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","url":"https://github.com/ashutosh1919"}}},{"id":"MDU6SXNzdWU2MDI0NDg3NTY=","closed":false,"title":"In ModelCheckpoint, filepath is not accepting batch as formatting parameter.","createdAt":"2020-04-18T12:25:56Z","url":"https://github.com/tensorflow/tensorflow/issues/38668","number":38668,"assignees":{"nodes":[{"avatarUrl":"https://avatars2.githubusercontent.com/u/6505863?v=4","name":"Rick Chao","url":"https://github.com/rchao"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU2MDIzODIxNjI=","closed":false,"title":"save_freq is not accepting integer value in AverageModelCheckpoint","createdAt":"2020-04-18T05:19:27Z","url":"https://github.com/tensorflow/addons/issues/1701","number":1701,"assignees":{"nodes":[]},"repository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1OTg4NzQxMDI=","closed":true,"title":"Currently logs param is None for on_train_end() and on_test_end()","createdAt":"2020-04-13T12:56:17Z","url":"https://github.com/tensorflow/tensorflow/issues/38498","number":38498,"assignees":{"nodes":[{"avatarUrl":"https://avatars2.githubusercontent.com/u/51902062?v=4","name":null,"url":"https://github.com/ravikyram"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1OTgyNTg0MTQ=","closed":false,"title":"Need of flexible loss function GeneralLoss which can change behavior based on params","createdAt":"2020-04-11T12:41:54Z","url":"https://github.com/tensorflow/addons/issues/1646","number":1646,"assignees":{"nodes":[]},"repository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1OTU1NjQyODc=","closed":false,"title":"Not able to customize social-cards","createdAt":"2020-04-07T03:29:37Z","url":"https://github.com/apollographql/gatsby-theme-apollo/issues/110","number":110,"assignees":{"nodes":[]},"repository":{"name":"gatsby-theme-apollo","url":"https://github.com/apollographql/gatsby-theme-apollo","owner":{"login":"apollographql","avatarUrl":"https://avatars0.githubusercontent.com/u/17189275?v=4","url":"https://github.com/apollographql"}}},{"id":"MDU6SXNzdWU1OTMyNjQ3NTg=","closed":true,"title":"Adding config to override prettier (if set) in any code editor","createdAt":"2020-04-03T09:59:05Z","url":"https://github.com/saadpasta/developerFolio/issues/77","number":77,"assignees":{"nodes":[{"avatarUrl":"https://avatars0.githubusercontent.com/u/48270786?u=dab5f6dc64923f646b354f47f52af65f44fd9e7e&v=4","name":"Kartik Choudhary","url":"https://github.com/kartik918"}]},"repository":{"name":"developerFolio","url":"https://github.com/saadpasta/developerFolio","owner":{"login":"saadpasta","avatarUrl":"https://avatars2.githubusercontent.com/u/23307811?u=eab46b153eef3f5183930e61898b462447af9219&v=4","url":"https://github.com/saadpasta"}}},{"id":"MDU6SXNzdWU1OTE2NjAzNTE=","closed":false,"title":"Add Animations to Pinned Projects ","createdAt":"2020-04-01T06:24:47Z","url":"https://github.com/ashutosh1919/masterPortfolio/issues/1","number":1,"assignees":{"nodes":[]},"repository":{"name":"masterPortfolio","url":"https://github.com/ashutosh1919/masterPortfolio","owner":{"login":"ashutosh1919","avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","url":"https://github.com/ashutosh1919"}}},{"id":"MDU6SXNzdWU1OTAwMDczMDE=","closed":true,"title":"Improve the TFDS Getting Started Documentation","createdAt":"2020-03-30T05:37:01Z","url":"https://github.com/tensorflow/datasets/issues/1762","number":1762,"assignees":{"nodes":[]},"repository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1ODk1Nzk0NTc=","closed":true,"title":"BrowserRouter and HashRouter works for three Routes only","createdAt":"2020-03-28T13:40:27Z","url":"https://github.com/ReactTraining/react-router/issues/7223","number":7223,"assignees":{"nodes":[]},"repository":{"name":"react-router","url":"https://github.com/ReactTraining/react-router","owner":{"login":"ReactTraining","avatarUrl":"https://avatars1.githubusercontent.com/u/11823761?v=4","url":"https://github.com/ReactTraining"}}},{"id":"MDU6SXNzdWU1ODk1NzY4Nzg=","closed":true,"title":"BrowserRouter and HashRouter works for three Routes only ","createdAt":"2020-03-28T13:24:25Z","url":"https://github.com/facebook/react/issues/18414","number":18414,"assignees":{"nodes":[]},"repository":{"name":"react","url":"https://github.com/facebook/react","owner":{"login":"facebook","avatarUrl":"https://avatars3.githubusercontent.com/u/69631?v=4","url":"https://github.com/facebook"}}},{"id":"MDU6SXNzdWU1ODEwNjk1NjU=","closed":true,"title":"Required mean_absolute_relative_error (MARE) ","createdAt":"2020-03-14T06:39:28Z","url":"https://github.com/scikit-learn/scikit-learn/issues/16688","number":16688,"assignees":{"nodes":[]},"repository":{"name":"scikit-learn","url":"https://github.com/scikit-learn/scikit-learn","owner":{"login":"scikit-learn","avatarUrl":"https://avatars2.githubusercontent.com/u/365630?v=4","url":"https://github.com/scikit-learn"}}},{"id":"MDU6SXNzdWU1ODEwNDc0MDc=","closed":true,"title":"Example given in tf.image.rgb_to_yub is contadicting with the description.","createdAt":"2020-03-14T05:25:45Z","url":"https://github.com/tensorflow/tensorflow/issues/37591","number":37591,"assignees":{"nodes":[{"avatarUrl":"https://avatars2.githubusercontent.com/u/46058173?v=4","name":"Vishnuvardhan Janapati","url":"https://github.com/jvishnuvardhan"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1NzMyNTA1NjQ=","closed":false,"title":"ModuleNotFoundError: No module named 'tensorflow_datasets'","createdAt":"2020-02-29T08:28:06Z","url":"https://github.com/tensorflow/datasets/issues/1544","number":1544,"assignees":{"nodes":[]},"repository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1Njk4OTI2MTE=","closed":true,"title":"There are no documentations related to decode_predictions() and preprocess_input() in any keras.applications","createdAt":"2020-02-24T14:28:33Z","url":"https://github.com/tensorflow/tensorflow/issues/37021","number":37021,"assignees":{"nodes":[{"avatarUrl":"https://avatars2.githubusercontent.com/u/46058173?v=4","name":"Vishnuvardhan Janapati","url":"https://github.com/jvishnuvardhan"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1NTgwODYwMTM=","closed":true,"title":"Need for more flexible Loss Function","createdAt":"2020-01-31T11:50:06Z","url":"https://github.com/tensorflow/tensorflow/issues/36369","number":36369,"assignees":{"nodes":[{"avatarUrl":"https://avatars0.githubusercontent.com/u/13326758?u=af9430e7bc177fa3a1a256dd224b0765bd820bcf&v=4","name":"Pavithra Vijay","url":"https://github.com/pavithrasv"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU0OTQ1NzMwMzc=","closed":true,"title":"I am not able to import Dataset","createdAt":"2019-09-17T11:46:15Z","url":"https://github.com/aerdem4/lofo-importance/issues/26","number":26,"assignees":{"nodes":[]},"repository":{"name":"lofo-importance","url":"https://github.com/aerdem4/lofo-importance","owner":{"login":"aerdem4","avatarUrl":"https://avatars3.githubusercontent.com/u/24624210?u=58887e9c09a3c0576a8ce61ba881132ebf4c137c&v=4","url":"https://github.com/aerdem4"}}},{"id":"MDU6SXNzdWU0ODI4MTcwNjE=","closed":false,"title":"Setup Readme file in proper format","createdAt":"2019-08-20T11:58:49Z","url":"https://github.com/NebutechOpenSource/MLGen/issues/1","number":1,"assignees":{"nodes":[]},"repository":{"name":"MLGen","url":"https://github.com/NebutechOpenSource/MLGen","owner":{"login":"NebutechOpenSource","avatarUrl":"https://avatars3.githubusercontent.com/u/53137955?u=2abe60da5dfbd4b442e415e6c553f58a21cf9547&v=4","url":"https://github.com/NebutechOpenSource"}}}],"open":8,"closed":10,"totalCount":18}
+{
+  "closed": 6,
+  "data": [
+    {
+      "id": "MDU6SXNzdWU1OTc4MTQwNDM=",
+      "closed": true,
+      "title": "Palindromic_String in Java and Python",
+      "createdAt": "2020-04-10T10:14:32Z",
+      "url": "https://github.com/jainaman224/Algo_Ds_Notes/issues/2736",
+      "number": 2736,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Algo_Ds_Notes",
+        "url": "https://github.com/jainaman224/Algo_Ds_Notes",
+        "owner": {
+          "login": "jainaman224",
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/13117482?u=346fbec8caf103247bbc681c4958773935a8f3b8&v=4",
+          "url": "https://github.com/jainaman224"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1OTQ0OTE3MTg=",
+      "closed": true,
+      "title": "Getting error",
+      "createdAt": "2020-04-05T14:43:39Z",
+      "url": "https://github.com/RyanZim/EJS-Lint/issues/69",
+      "number": 69,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "EJS-Lint",
+        "url": "https://github.com/RyanZim/EJS-Lint",
+        "owner": {
+          "login": "RyanZim",
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/17342435?u=da5d402c2652b5aa717c51097de40367063c2de1&v=4",
+          "url": "https://github.com/RyanZim"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1ODk3NTU5MjQ=",
+      "closed": false,
+      "title": "Google's kick start BUNDLING problem in Java",
+      "createdAt": "2020-03-29T09:48:05Z",
+      "url": "https://github.com/OpenGenus/cosmos/issues/4917",
+      "number": 4917,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars2.githubusercontent.com/u/49086821?u=d9477e4147c92d5cd5e719e794416b81c8443729&v=4",
+            "name": "Mustafiz Kaifee",
+            "url": "https://github.com/Mustafiz04"
+          }
+        ]
+      },
+      "repository": {
+        "name": "cosmos",
+        "url": "https://github.com/OpenGenus/cosmos",
+        "owner": {
+          "login": "OpenGenus",
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/18506046?v=4",
+          "url": "https://github.com/OpenGenus"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1NzU0MTk2Mzg=",
+      "closed": true,
+      "title": "Adding Readme.md file",
+      "createdAt": "2020-03-04T13:54:39Z",
+      "url": "https://github.com/Mustafiz04/Typing-Speed-Test/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars2.githubusercontent.com/u/49086821?u=d9477e4147c92d5cd5e719e794416b81c8443729&v=4",
+            "name": "Mustafiz Kaifee",
+            "url": "https://github.com/Mustafiz04"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Typing-Speed-Test",
+        "url": "https://github.com/Mustafiz04/Typing-Speed-Test",
+        "owner": {
+          "login": "Mustafiz04",
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/49086821?u=d9477e4147c92d5cd5e719e794416b81c8443729&v=4",
+          "url": "https://github.com/Mustafiz04"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1NzQ1NDgxMjI=",
+      "closed": true,
+      "title": "Count all possible paths - Python",
+      "createdAt": "2020-03-03T09:59:34Z",
+      "url": "https://github.com/jainaman224/Algo_Ds_Notes/issues/1986",
+      "number": 1986,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars2.githubusercontent.com/u/49086821?u=d9477e4147c92d5cd5e719e794416b81c8443729&v=4",
+            "name": "Mustafiz Kaifee",
+            "url": "https://github.com/Mustafiz04"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Algo_Ds_Notes",
+        "url": "https://github.com/jainaman224/Algo_Ds_Notes",
+        "owner": {
+          "login": "jainaman224",
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/13117482?u=346fbec8caf103247bbc681c4958773935a8f3b8&v=4",
+          "url": "https://github.com/jainaman224"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1NzMzMDMwMjQ=",
+      "closed": true,
+      "title": "Karatsuba_multiplication_algo",
+      "createdAt": "2020-02-29T14:17:47Z",
+      "url": "https://github.com/jainaman224/Algo_Ds_Notes/issues/1684",
+      "number": 1684,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars2.githubusercontent.com/u/49086821?u=d9477e4147c92d5cd5e719e794416b81c8443729&v=4",
+            "name": "Mustafiz Kaifee",
+            "url": "https://github.com/Mustafiz04"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Algo_Ds_Notes",
+        "url": "https://github.com/jainaman224/Algo_Ds_Notes",
+        "owner": {
+          "login": "jainaman224",
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/13117482?u=346fbec8caf103247bbc681c4958773935a8f3b8&v=4",
+          "url": "https://github.com/jainaman224"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1NzMxOTQxMjg=",
+      "closed": true,
+      "title": "BFS and DFS in Graph",
+      "createdAt": "2020-02-29T05:48:10Z",
+      "url": "https://github.com/jainaman224/Algo_Ds_Notes/issues/1647",
+      "number": 1647,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Algo_Ds_Notes",
+        "url": "https://github.com/jainaman224/Algo_Ds_Notes",
+        "owner": {
+          "login": "jainaman224",
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/13117482?u=346fbec8caf103247bbc681c4958773935a8f3b8&v=4",
+          "url": "https://github.com/jainaman224"
+        }
+      }
+    }
+  ],
+  "open": 1,
+  "totalCount": 7
+}

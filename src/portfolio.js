@@ -71,7 +71,7 @@ const skills = {
       title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
+        "⚡ Developing highly scalable production ready models for various MachineLearning, DeepLearning and statistical use cases",
         "⚡ Experience of working with NLP projects",
         "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
       ],
@@ -349,11 +349,11 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "National Institute of Technology, Jamshepur",
+      title: "National Institute of Technology, Jamshedpur",
       subtitle: "B.Tech. in Metallurgical and Materials Engineering",
-      logo_path: "iiitk_logo.png",
+      logo_path: "nitjsr_logo.png",
       alt_name: "NIT Jamshedpur",
-      duration: "20117 - Present",
+      duration: "2017 - Present",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
@@ -367,113 +367,113 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Machine Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "stanford_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-      alt_name: "Stanford University",
-      color_code: "#8C151599",
-    },
-    {
-      title: "Deep Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
-    },
-    {
-      title: "ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
-    },
-    {
-      title: "Data Science",
-      subtitle: "- Alex Aklson",
+      title: "Machine Learning with Python",
+      subtitle: "- IBM",
       logo_path: "ibm_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
+        "https://drive.google.com/file/d/1YpaKkeXZsO6QgfPgcZsOWa3n9lTOttg1/view?usp=sharing",
       alt_name: "IBM",
       color_code: "#1F70C199",
     },
     {
-      title: "Big Data",
-      subtitle: "- Kim Akers",
-      logo_path: "microsoft_logo.png",
+      title: "Data Visualization",
+      subtitle: "- IBM",
+      logo_path: "ibm_logo.png",
       certificate_link:
-        "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
-      alt_name: "Microsoft",
-      color_code: "#D83B0199",
+        "https://drive.google.com/file/d/1lxmkPoYs8V211CIuaDndvqM300ba0BAH/view?usp=sharing",
+      alt_name: "DataVisualization",
+      color_code: "#1F70C199",
     },
     {
-      title: "Advanced Data Science",
-      subtitle: "- Romeo Kienzler",
+      title: "Database and SQL",
+      subtitle: "- IBM",
       logo_path: "ibm_logo.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1NF62QOZ5YG--H5JvRlYJ9jlRfUlIUC8J/view?usp=sharing",
+      alt_name: "IBM",
+      color_code: "#1F70C199",
+    },
+    {
+      title: "Image classification using CNN",
+      subtitle: "- IBM",
+      logo_path: "ibm_logo.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1fq1F_6xAaKxBuHILEIyGymCoLAcRvItT/view?usp=sharing",
+      alt_name: "IBM",
+      color_code: "#1F70C199",
+    },
+    {
+      title: "Python for Data Science",
+      subtitle: "- IBM",
+      logo_path: "ibm_logo.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1WbLIimsf8Ly6IyFrbegIyGetp9JXBqWi/view?usp=sharing",
+      alt_name: "IBM",
+      color_code: "#1F70C199",
+    },
+    {
+      title: "Python",
+      subtitle: "- udemy",
+      logo_path: "udemy_logo.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
-      alt_name: "IBM",
+      alt_name: "udemy",
       color_code: "#1F70C199",
     },
-    {
-      title: "Advanced ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
-    },
-    {
-      title: "DL on Tensorflow",
-      subtitle: "- Laurence Moroney",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
-    },
-    {
-      title: "Fullstack Development",
-      subtitle: "- Jogesh Muppala",
-      logo_path: "coursera_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
-      alt_name: "Coursera",
-      color_code: "#2A73CC",
-    },
-    {
-      title: "Kuberenetes on GCP",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
-      alt_name: "GCP",
-      color_code: "#4285F499",
-    },
-    {
-      title: "Cryptography",
-      subtitle: "- Saurabh Mukhopadhyay",
-      logo_path: "nptel_logo.png",
-      certificate_link:
-        "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
-      alt_name: "NPTEL",
-      color_code: "#FFBB0099",
-    },
-    {
-      title: "Cloud Architecture",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
-      alt_name: "GCP",
-      color_code: "#4285F499",
-    },
+    // {
+    //   title: "Advanced ML on GCP",
+    //   subtitle: "- GCP Training",
+    //   logo_path: "google_logo.png",
+    //   certificate_link:
+    //     "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
+    //   alt_name: "Google",
+    //   color_code: "#0C9D5899",
+    // },
+    // {
+    //   title: "DL on Tensorflow",
+    //   subtitle: "- Laurence Moroney",
+    //   logo_path: "deeplearning_ai_logo.png",
+    //   certificate_link:
+    //     "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
+    //   alt_name: "deeplearning.ai",
+    //   color_code: "#00000099",
+    // },
+    // {
+    //   title: "Fullstack Development",
+    //   subtitle: "- Jogesh Muppala",
+    //   logo_path: "coursera_logo.png",
+    //   certificate_link:
+    //     "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
+    //   alt_name: "Coursera",
+    //   color_code: "#2A73CC",
+    // },
+    // {
+    //   title: "Kuberenetes on GCP",
+    //   subtitle: "- Qwiklabs",
+    //   logo_path: "gcp_logo.png",
+    //   certificate_link:
+    //     "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
+    //   alt_name: "GCP",
+    //   color_code: "#4285F499",
+    // },
+    // {
+    //   title: "Cryptography",
+    //   subtitle: "- Saurabh Mukhopadhyay",
+    //   logo_path: "nptel_logo.png",
+    //   certificate_link:
+    //     "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
+    //   alt_name: "NPTEL",
+    //   color_code: "#FFBB0099",
+    // },
+    // {
+    //   title: "Cloud Architecture",
+    //   subtitle: "- Qwiklabs",
+    //   logo_path: "gcp_logo.png",
+    //   certificate_link:
+    //     "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
+    //   alt_name: "GCP",
+    //   color_code: "#4285F499",
+    // },
   ],
 };
 
@@ -482,7 +482,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have worked with many evolving startups as ML and DL Developer. I love organizing events and that is why I am also involved with many opensource communities as a representative.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -527,8 +527,8 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Data Science Research Intern",
-          company: "Delhivery Pvt. Ltd.",
+          title: "Data Science Tech Intern",
+          company: "Digital Tesseract.",
           company_url: "https://www.delhivery.com/",
           logo_path: "delhivery_logo.png",
           duration: "May 2019 - Sept 2019",
@@ -627,7 +627,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "mk-logo.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with Java, Python, Web Development, ML, AI and Opensource Development.",
   },
