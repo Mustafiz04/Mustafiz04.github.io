@@ -9,12 +9,17 @@ import EducationImg from "./EducationImg";
 import { competitiveSites } from "../../portfolio";
 import "./EducationComponent.css";
 import { Fade } from "react-reveal";
+import { Helmet } from "react-helmet";
 
 class Education extends Component {
   render() {
     const theme = this.props.theme;
     return (
       <div className="education-main">
+        <Helmet>
+          <meta charSet="utf-8" />
+          <title>Mustafiz's Education</title>
+        </Helmet>
         <Header theme={this.props.theme} />
         <div className="basic-education">
           <Fade bottom duration={2000} distance="40px">

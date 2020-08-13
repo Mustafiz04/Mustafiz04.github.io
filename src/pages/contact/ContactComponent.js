@@ -9,6 +9,7 @@ import AddressImg from "./AddressImg";
 import { Fade } from "react-reveal";
 import "./ContactComponent.css";
 import { greeting, contactPageData } from "../../portfolio.js";
+import { Helmet } from "react-helmet";
 
 const ContactData = contactPageData.contactSection;
 const blogSection = contactPageData.blogSection;
@@ -20,6 +21,10 @@ class Contact extends Component {
     const theme = this.props.theme;
     return (
       <div className="contact-main">
+        <Helmet>
+          <meta charSet="utf-8" />
+          <title>Mustafiz's Contact</title>
+        </Helmet>
         <Header theme={theme} />
         <div className="basic-contact">
           <Fade bottom duration={1000} distance="40px">

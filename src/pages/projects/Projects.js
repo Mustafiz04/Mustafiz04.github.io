@@ -9,12 +9,17 @@ import { projectsHeader } from "../../portfolio.js";
 import ProjectsData from "../../shared/opensource/projects.json";
 import "./Projects.css";
 import ProjectsImg from "./ProjectsImg";
+import { Helmet } from "react-helmet";
 
 class Projects extends Component {
   render() {
     const theme = this.props.theme;
     return (
       <div className="projects-main">
+        <Helmet>
+          <meta charSet="utf-8" />
+          <title>Mustafiz's projcts</title>
+        </Helmet>
         <Header theme={theme} />
         <div className="basic-projects">
           <Fade bottom duration={2000} distance="40px">

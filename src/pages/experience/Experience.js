@@ -7,6 +7,7 @@ import "./Experience.css";
 import { experience } from "../../portfolio.js";
 import { Fade } from "react-reveal";
 import ExperienceImg from "./ExperienceImg";
+import { Helmet } from "react-helmet";
 
 // const experience = {
 // 	title: "Experience",
@@ -149,6 +150,10 @@ class Experience extends Component {
     const theme = this.props.theme;
     return (
       <div className="experience-main">
+        <Helmet>
+          <meta charSet="utf-8" />
+          <title>Mustafiz's Experience</title>
+        </Helmet>
         <Header theme={theme} />
         <div className="basic-experience">
           <Fade bottom duration={2000} distance="40px">
