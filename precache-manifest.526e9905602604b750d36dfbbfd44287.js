@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d6cfba56a107a9d582b012ad617d895a",
+    "revision": "b740e26cbff28eac66f0e8444aa8061c",
     "url": "/index.html"
   },
   {
-    "revision": "70715c1e90ce88f2574e",
+    "revision": "210564d435e2fcff361d",
     "url": "/static/css/main.2ecfa475.chunk.css"
   },
   {
-    "revision": "3d404b379c38bbc6ce4a",
-    "url": "/static/js/2.c4b1c852.chunk.js"
+    "revision": "5eb03e9f9702a2c96ec5",
+    "url": "/static/js/2.752731d4.chunk.js"
   },
   {
-    "revision": "70715c1e90ce88f2574e",
-    "url": "/static/js/main.e4179c48.chunk.js"
+    "revision": "210564d435e2fcff361d",
+    "url": "/static/js/main.3af6ac8e.chunk.js"
   },
   {
     "revision": "ae49612b71e53749977b",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "686c60e8117678677352b53613a9c279",
+    "url": "/static/media/DT_logo.686c60e8.png"
   },
   {
     "revision": "4457817ac2b9993c65e81aa05828fe9c",
@@ -74,6 +78,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b3685be8bafcd5fe4786b39cba69a561",
     "url": "/static/media/codeInLogo.b3685be8.png"
+  },
+  {
+    "revision": "e79025bdc86edccb026464869514a8cc",
+    "url": "/static/media/codesthaan_logo.e79025bd.png"
   },
   {
     "revision": "d6d4086fb1cade58b3f786620e17c3ef",
@@ -188,6 +196,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/googleAssistant.c24ba791.svg"
   },
   {
+    "revision": "5d7e73a1ed555bf04012914d8803fbaf",
+    "url": "/static/media/gssoc_logo.5d7e73a1.png"
+  },
+  {
     "revision": "6d325fec19fe3b6b169d9012f9a1dfb9",
     "url": "/static/media/ibm_logo.6d325fec.png"
   },
@@ -226,6 +238,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cd7077f7a08bffdb11e13093424e13fd",
     "url": "/static/media/nptel_logo.cd7077f7.png"
+  },
+  {
+    "revision": "06627eb9bb46f6b21d6406617f0f0a64",
+    "url": "/static/media/opengenus_logo.06627eb9.png"
   },
   {
     "revision": "6e7dc5ad476dd2d57600bca9521f3a5d",
