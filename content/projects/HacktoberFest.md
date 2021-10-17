@@ -8,7 +8,7 @@ tech:
   - Java
   - C++
   - Python
-company: 'Upstatement'
+company: ''
 showInProjects: true
 ---
 
