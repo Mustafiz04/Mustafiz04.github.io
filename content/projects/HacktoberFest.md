@@ -12,4 +12,4 @@ company: ''
 showInProjects: true
 ---
 
-A beginner-friendly project to help you in open-source contributions. From Hello World Programs to Data Structure and Algorithms! all in one
+A beginner-friendly project to help you in open-source contributions. From Hello World Programs to Data Structure and Algorithms! all in one.
