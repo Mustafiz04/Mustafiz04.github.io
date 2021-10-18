@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'Node.js', 'Java', 'Python', 'MongoDB', 'AWS'];
+  const skills = ['JavaScript', 'Node.js', 'Java', 'Python', 'MongoDB', 'AWS', 'HTML', 'CSS'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -146,6 +146,10 @@ const About = () => {
               Fast-forward to today, My main focus these days is building accessible, inclusive products and digital
               experiences at <a href="https://www.freecharge.in/">Freecharge</a> for a variety of
               clients.
+            </p>
+
+            <p>
+              I often like to solve problems on Data Structures and Algorithms. Checkout <a href='https://www.codechef.com/users/mustafiz04' > Codechef, </a> <a href='https://auth.geeksforgeeks.org/user/mustafizkaifee/' > GeeksForGeeks. </a> 
             </p>
 
             {/* <p>

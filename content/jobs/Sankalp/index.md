@@ -1,6 +1,6 @@
 ---
 date: '2018-01-20'
-title: 'Center Manager'
+title: 'Center Manager (NGO)'
 company: 'Sankalp'
 location: 'Jamshedpur, Jharkhand'
 range: 'January 2018 - May 2021'
