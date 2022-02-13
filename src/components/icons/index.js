@@ -13,3 +13,6 @@ export { default as IconLogo } from './logo';
 export { default as IconPlayStore } from './playstore';
 export { default as IconStar } from './star';
 export { default as IconTwitter } from './twitter';
+export { default as IconCodechef } from './codechef';
+export { default as IconLeetcode } from './leetcode';
+export { default as IconGFG } from './geeksforgeeks';

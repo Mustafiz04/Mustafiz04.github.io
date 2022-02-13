@@ -7,16 +7,28 @@ module.exports = {
       url: 'https://github.com/Mustafiz04',
     },
     {
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/mustafizkaifee/',
+    },
+    {
       name: 'Instagram',
       url: 'https://www.instagram.com/mustafizkaifee/',
     },
-    // {
-    //   name: 'Codechef',
-    //   url: 'https://twitter.com/bchiang7',
-    // },
     {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/mustafizkaifee/',
+      name: 'Twitter',
+      url: 'https://twitter.com/mustafiz_kaifee',
+    },
+    {
+      name: 'Leetcode',
+      url: 'https://leetcode.com/kaifee000/',
+    },
+    {
+      name: 'Codechef',
+      url: 'https://www.codechef.com/users/mustafiz04',
+    },
+    {
+      name: 'GFG',
+      url: 'https://auth.geeksforgeeks.org/user/mustafizkaifee/practice/',
     },
     // {
     //   name: 'Codepen',

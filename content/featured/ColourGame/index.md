@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Color Game'
 cover: './ColourGame.png'
 github: 'https://github.com/Mustafiz04/Color-game'
 external: 'https://playwithcolor.herokuapp.com/'
