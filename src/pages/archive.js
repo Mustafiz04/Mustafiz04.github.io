@@ -213,7 +213,6 @@ const ArchivePage = ({ location, data }) => {
                               <Icon name="GitHub" />
                             </a>
                           )}
-                          
                         </div>
                       </td>
                     </tr>

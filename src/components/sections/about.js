@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript', 'Node.js', 'Java', 'Python', 'MongoDB', 'AWS', 'HTML', 'CSS'];
+  const skills = ['JavaScript', 'Node.js', 'Express.Js', 'Java', 'Python', 'MongoDB', 'AWS', 'HTML', 'CSS'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -138,7 +138,7 @@ const About = () => {
             <p>
               Hello! My name is Mustafiz and I enjoy creating things that live on the internet. My
               interest in web development started back in 2018 when I was trying to explore the how to create a website
-               — turns out hacking together a custom reblog button taught me a lot
+              — turns out hacking together a custom reblog button taught me a lot
               about HTML &amp; CSS!
             </p>
 
@@ -149,7 +149,7 @@ const About = () => {
             </p>
 
             <p>
-              I often like to solve problems on Data Structures and Algorithms. Checkout <a href='https://www.codechef.com/users/mustafiz04' > Codechef, </a> <a href='https://auth.geeksforgeeks.org/user/mustafizkaifee/' > GeeksForGeeks. </a> 
+              I often like to solve problems on Data Structures and Algorithms. Checkout <a href='https://www.codechef.com/users/mustafiz04' > Codechef, </a> <a href='https://auth.geeksforgeeks.org/user/mustafizkaifee/' > GeeksForGeeks. </a>
             </p>
 
             {/* <p>
